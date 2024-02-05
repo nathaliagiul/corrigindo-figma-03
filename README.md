@@ -1,4 +1,4 @@
 #  💻 Desafio Intermediário - Construindo formulários 
 
 
-![desafio](https://imgur.com/Z2l18d8)
+![desafio](https://i.imgur.com/Z2l18d8.png)
